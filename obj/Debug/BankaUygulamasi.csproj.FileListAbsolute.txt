@@ -1,0 +1,8 @@
+C:\Users\kizil\OneDrive\Masaüstü\Ders\C#+Angular\BankaUygulamasi\BankaUygulamasi\bin\Debug\BankaUygulamasi.exe.config
+C:\Users\kizil\OneDrive\Masaüstü\Ders\C#+Angular\BankaUygulamasi\BankaUygulamasi\bin\Debug\BankaUygulamasi.exe
+C:\Users\kizil\OneDrive\Masaüstü\Ders\C#+Angular\BankaUygulamasi\BankaUygulamasi\bin\Debug\BankaUygulamasi.pdb
+C:\Users\kizil\OneDrive\Masaüstü\Ders\C#+Angular\BankaUygulamasi\BankaUygulamasi\obj\Debug\BankaUygulamasi.csproj.AssemblyReference.cache
+C:\Users\kizil\OneDrive\Masaüstü\Ders\C#+Angular\BankaUygulamasi\BankaUygulamasi\obj\Debug\BankaUygulamasi.csproj.SuggestedBindingRedirects.cache
+C:\Users\kizil\OneDrive\Masaüstü\Ders\C#+Angular\BankaUygulamasi\BankaUygulamasi\obj\Debug\BankaUygulamasi.csproj.CoreCompileInputs.cache
+C:\Users\kizil\OneDrive\Masaüstü\Ders\C#+Angular\BankaUygulamasi\BankaUygulamasi\obj\Debug\BankaUygulamasi.exe
+C:\Users\kizil\OneDrive\Masaüstü\Ders\C#+Angular\BankaUygulamasi\BankaUygulamasi\obj\Debug\BankaUygulamasi.pdb
